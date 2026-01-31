@@ -6,5 +6,8 @@
 
 - En operadores de red se encontraron datos similares q correspondían a la misma empresa, por lo que se unificaron para poder trabajarlos como el mismo dato ("CELSIA Colombia - Valle del Cauca = "CELSIA - Valle del Cauca" y "CELSIA Colombia - Tolima" = "CELSIA - Tolima")
 
-- 
+- Cambio de errores de digitación en "Nivel"
+
+- Se categorizó en una nueva columna "OPR" los operadors de red y otra columna "NIV" los niveles
+
 
