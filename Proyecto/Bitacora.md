@@ -10,4 +10,5 @@
 
 - Se categorizó en una nueva columna "OPR" los operadors de red y otra columna "NIV" los niveles
 
+- Correción comas en "Cfm,j ($/fact.)" para corregir los outliers
 
