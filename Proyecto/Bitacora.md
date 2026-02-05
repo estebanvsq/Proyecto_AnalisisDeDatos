@@ -12,3 +12,4 @@
 
 - Correción comas en "Cfm,j ($/fact.)" para corregir los outliers
 
+- Realizar una copida del dataframe en otra variable para no trabajar sobre el original.
